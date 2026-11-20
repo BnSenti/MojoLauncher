@@ -89,3 +89,4 @@ Any code change to this repository should be submitted as a pull request. The de
 - [alsoft](https://github.com/kcat/openal-soft/) (Audio output library): [GNU Library General Public License](https://github.com/kcat/openal-soft/blob/master/COPYING) and [Modified PFFFT](https://github.com/kcat/openal-soft/blob/master/LICENSE-pffft).
 - [oboe](https://github.com/google/oboe): [Apache License 2.0](https://github.com/google/oboe/blob/main/LICENSE).
 - Thanks to [Mineskin](https://mineskin.eu/) for providing Minecraft avatars.
+  
