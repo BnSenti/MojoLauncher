@@ -11,6 +11,7 @@
     <color name="background_status_bar">#143322</color>
     <color name="background_bottom_bar">#143322</color>
     <color name="icon_frame_color">#A7F3D0</color>
+    <color name="icon_outline_color">#4ADE80</color>
 
     <color name="primary_text">#FFFFFF</color>
     <color name="secondary_text">#B7E4C7</color>
